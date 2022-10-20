@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "V:/viaslab/ListoUS/Web_listo/TemplateV2_envato/oya/index.html",
+            "url": "V:/viaslab/ListoUS/Web_listo/TemplateV2_envato/listo/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]

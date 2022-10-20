@@ -799,7 +799,7 @@ footer .social li a i {
 @media (max-width:767px) {
     .home-intro {
         margin-top: 0;
-        padding-bottom: 1000px !important;
+        padding-bottom: 100px !important;
     }
 
     .home-intro .content-image {
