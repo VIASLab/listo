@@ -699,7 +699,7 @@ form textarea:focus {
 
 /* footer bottom */
 .footer-bottom {
-    background: #f2a413;
+    background: #302c42;
     text-align: center;
     color: #eee;
     padding: 35px 0 35px;
@@ -708,7 +708,7 @@ form textarea:focus {
 
 /* footer */
 footer {
-    background: #254673;
+    background: #302c42;
     padding: 90px 0 80px;
 }
 
