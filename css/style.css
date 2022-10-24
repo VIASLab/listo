@@ -103,16 +103,16 @@ p {
 /* button */
 .button {
    
-    background: #d9d8d9;
+    background: #ffb100;
     padding: 12px 30px;
     font-weight: 500;
     font-size: 15px;
     border-radius: 5px;
-    color: rgb(0, 0, 0);
+    color: #1f2d5a;
     letter-spacing: 1px;
     margin-top: 22px;
     display: inline-block;
-    border: 2px solid #4d4a44;
+    border: 2px solid #1f2d5a;
 }
 
 .button:hover {
@@ -123,13 +123,13 @@ p {
 }
 
 .button2 {
-    background: #d9d8d9;
-    border: 2px solid #4d4a44;
+    background: #ffb100;
+    border: 2px solid #1f2d5a;
     padding: 12px 30px;
     font-weight: 500;
     font-size: 15px;
     border-radius: 5px;
-    color: #222;
+    color: #1f2d5a;
     letter-spacing: 1px;
     margin-top: 22px;
     display: inline-block;
@@ -200,7 +200,7 @@ p {
 }
 
 .navbar-fixed .navbar-nav li a {
-    color: #333;
+    color: rgb(255, 255, 255);
 }
 
 .navbar-fixed .navbar-toggler i {
@@ -263,7 +263,7 @@ p {
 .home-intro {
     background: url(../images/bg-intro.png) #47babf;
     background-repeat: no-repeat;
-    padding: 200px 0 150px !important;
+    padding: 130px 0 150px !important;
     background-size: 58%;
     background-position: top right;
 }
