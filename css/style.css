@@ -26,7 +26,9 @@ Table of Content:
 
 /* general */
 body {
-        background: #47babf;
+    
+   
+    background: #47babf;
     color: #8a8a8a;
     font-size: 16px;
     font-weight: 400;
@@ -89,6 +91,7 @@ p {
     line-height: 26px;
 }
 .bg-blue{
+    
     background: #be639e;
 }
 .bg-grey {
@@ -261,7 +264,7 @@ p {
 
 /* home intro */
 .home-intro {
-    background: url(../images/bg-intro.png) #47babf;
+    background: url(../images/bg-intro.png) #ffffff;
     background-repeat: no-repeat;
     padding: 130px 0 150px !important;
     background-size: 58%;
@@ -945,3 +948,5 @@ footer .social li a i {
     }
 
 }
+
+    
